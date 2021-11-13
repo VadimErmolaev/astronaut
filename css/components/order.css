@@ -1,0 +1,8 @@
+.order {
+    background-image: url(../../img/pattern.jpg);
+    padding: 8rem 2rem ;
+}
+.order__wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
